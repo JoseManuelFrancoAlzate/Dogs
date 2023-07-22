@@ -1,0 +1,39 @@
+.card{
+    border: 5px solid black;
+    margin: 10px;
+ flex: 10%;
+ display: flex;
+ flex-direction: column;
+ flex-wrap:wrap;
+
+}
+
+
+
+.footer{
+background-color: grey;
+padding: 10px
+}
+
+
+.imgCss{
+  display:list-item;   
+  width: 450px;
+    height: 200px;
+    
+  }
+
+  .LetraCards{
+    color:rgb(209, 17, 17);
+    background-color: rgb(5, 5, 5);
+    border-radius: 15px;
+
+
+   }
+
+   .LetraCards:hover{
+    color:rgb(255, 255, 255);
+    background-color: rgb(13, 16, 187);
+    border-radius: 15px
+
+   }
